@@ -1,9 +1,9 @@
 #include <ESP8266WiFi.h>//library for esp8266 wfi module
 
  
-const char* ssid     = "HUAWEI_P20_Pro"; //set your ssid(your hotspot or wifi name)
-const char* password = "12345678"; //your wifi/hotspot password
-const char* host = "IP address"; //your host name
+const char* ssid     = ""; //set your ssid(your hotspot or wifi name)
+const char* password = ""; //your wifi/hotspot password
+const char* host = ""; //your host name
 
 
 void setup() {
@@ -84,13 +84,13 @@ struct Gyro{
   float accZ;
 }G;
 
-  String url1 = "SATELLITE/API/BMEpost.php?temperature=" + String(B.temp)+ "&humidity=" + String(B.hum) + "&pressure=" + String(B.pres) + "&gas=" + String(B.gas) + "&altitude=" + String(B.alti); // combine values of temp and hum to form a URL link
+  String url1 = "/SATELLITE/API/BMEpost.php?temperature=" + String(B.temp)+ "&humidity=" + String(B.hum) + "&pressure=" + String(B.pres) + "&gas=" + String(B.gas) + "&altitude=" + String(B.alti); // combine values of temp and hum to form a URL link
 
-  String url2 = "SATELLITE/API/GPSpost.php?lat="+String(S.lat) "&lon=" + String(S.lon);
+  String url2 = "/SATELLITE/API/GPSpost.php?lat="+String(S.lat) "&lon=" + String(S.lon);
 
-  String url3 = "SATELLITE/API/BATTERYpost.php?percent="+String(P.percent);
+  String url3 = "/SATELLITE/API/BATTERYpost.php?percent="+String(P.percent);
   
-  String url4 = "SATELLITE/API/GYROpost.php?angX=" + String(G.angX) + "&angY=" + String(G.angY) + "&angZ=" + String(G.angZ) + "&accX=" + String(G.accX) + "&accY=" + String(G.accY) + "&accZ=" + String(G.accZ);
+  String url4 = "/SATELLITE/API/GYROpost.php?angX=" + String(G.angX) + "&angY=" + String(G.angY) + "&angZ=" + String(G.angZ) + "&accX=" + String(G.accX) + "&accY=" + String(G.accY) + "&accZ=" + String(G.accZ);
   //Serial.print("Requesting URL: ");
   //Serial.println(url);
   
