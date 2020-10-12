@@ -1,5 +1,5 @@
 <?php
-    include_once('database.php');
+    include_once('BMEfunc.php');
     // if (isset($_GET["readingsCount"])){
     //   $data = $_GET["readingsCount"];
     //   $data = trim($data);
