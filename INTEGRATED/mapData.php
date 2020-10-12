@@ -5,7 +5,7 @@ $servername = "localhost";
 // REPLACE with your Database name
 $dbname = "ajaxtest";
 // REPLACE with Database user
-$username = "root";
+$username = "";
 // REPLACE with Database user password
 $password = "";
 
