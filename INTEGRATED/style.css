@@ -1,0 +1,143 @@
+body{
+    padding: 0px;
+    margin: 0px;
+    border: 0px;
+    text-align: center;
+    color: #E0E0E3;
+}
+
+.header{
+    background-color: #1A1D1A;
+    height: auto;
+    display: flex;
+}
+
+.header > div{
+    background-color: #463F3A;
+    border-radius: 10%;
+    height: 50px;
+    width: 80px;
+    margin: 5px;
+    padding: auto;
+    text-align: center;
+    line-height: 50px;
+    color: #DCE1DE;
+    font-size: large;
+}
+
+#maincontainer1 {
+    overflow: auto;
+    white-space: nowrap;
+    background-color: #0C090D;
+}
+#maincontainer1 > #chart-temp {
+    background-color:   #32292F;
+    border-radius: 2%;
+    margin: 10px 3px;
+    padding: 20px;
+    width:1000px;
+    height:400px;
+    float:left;
+}
+#maincontainer1 > #googleMap {
+    background-color: #32292F;
+    border-radius: 2%;
+    margin: 10px 3px;
+    padding: 20px;
+    border: indigo;
+    width:400px;
+    height:400px;
+    display: inline-block;
+    top: 0px;
+}
+
+#maincontainer2 {
+    overflow: auto;
+    white-space: nowrap;
+    background-color: #0C090D;
+}
+#maincontainer2 > #chart-pres {
+    background-color: #32292F;
+    border-radius: 2%;
+    margin: 10px 3px;
+    padding: 20px;
+    width:1000px;
+    height:400px;
+    float:left;
+}
+#maincontainer2 > #draw {
+    background-color: #32292F;
+    border-radius: 2%;
+    margin: 10px 3px;
+    padding: 20px;
+    width:400px;
+    height:400px;
+    display: inline-block;
+    top: 0px;
+}
+
+#maincontainer3 {
+    overflow: auto;
+    white-space: nowrap;
+    background-color: #0C090D;
+}
+#maincontainer3 > #chart-humi {
+    background-color: #32292F;
+    border-radius: 2%;
+    margin: 10px 3px;
+    padding: 20px;
+    width:1000px;
+    height:400px;
+    float:left;
+}
+#maincontainer3 > #battery {
+    background-color: #32292F;
+    border-radius: 2%;
+    margin: 10px 3px;
+    padding: 20px;
+    width:400px;
+    height:400px;
+    display: inline-block;
+    top: 0px;
+}
+
+#maincontainer4{
+    overflow: auto;
+    white-space: nowrap;
+    background-color: #0C090D;
+}
+#maincontainer4 > div {
+    background-color: #32292F;
+    border-radius: 2%;
+    margin: 10px 3px;
+    padding: 20px;
+    width:255px;
+    height:300px;
+    float:left;
+}
+
+#maincontainer5{
+    overflow: auto;
+    white-space: nowrap;
+    background-color: #0C090D;
+}
+#maincontainer5 > table {
+    font-size: larger;
+    background-color: #32292F;
+    border-radius: 2%;
+    margin: 10px 3px;
+    padding: 20px;
+    width:295px;
+    height:200px;
+    float:left;
+}
+
+#footer{
+    background-color: #1A1D1A;
+    color: #DCE1DE;
+    line-height: 100px;
+    height: 100px;
+    font-size: large;
+}
+
+
