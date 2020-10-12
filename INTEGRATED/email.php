@@ -2,7 +2,7 @@
 $servername = "localhost";
 
 $dbname = "ajaxtest";
-$username = "root";
+$username = "";
 $password = "";
 
 if (isset($_GET["email"])) {
