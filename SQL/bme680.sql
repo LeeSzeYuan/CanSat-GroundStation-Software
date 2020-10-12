@@ -1,0 +1,9 @@
+CREATE TABLE bme680 (
+    id INT(6) UNSIGNED AUTO_INCREMENT PRIMARY KEY,
+    pressure VARCHAR(10),
+    temperature VARCHAR(10),
+    humidity VARCHAR(10),
+    gas VARCHAR(10),
+    altitude VARCHAR(10),
+    reading_time TIMESTAMP DEFAULT CURRENT_TIMESTAMP ON UPDATE CURRENT_TIMESTAMP
+)
