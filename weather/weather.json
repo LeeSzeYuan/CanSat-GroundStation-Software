@@ -1,0 +1,842 @@
+[
+  {
+    "timestamp": "20200927T0000",
+    "Temperature": 24.712345,
+    "Relative_Humidity": 93,
+    "Pressure": 1012.1,
+    "Precipitation": 0
+  },
+  {
+    "timestamp": "20200927T0100",
+    "Temperature": 24.552345,
+    "Relative_Humidity": 94,
+    "Pressure": 1011.4,
+    "Precipitation": 0
+  },
+  {
+    "timestamp": "20200927T0200",
+    "Temperature": 24.452345,
+    "Relative_Humidity": 93,
+    "Pressure": 1011,
+    "Precipitation": 0
+  },
+  {
+    "timestamp": "20200927T0300",
+    "Temperature": 24.252346,
+    "Relative_Humidity": 93,
+    "Pressure": 1010,
+    "Precipitation": 0
+  },
+  {
+    "timestamp": "20200927T0400",
+    "Temperature": 24.212345,
+    "Relative_Humidity": 92,
+    "Pressure": 1009.8,
+    "Precipitation": 0
+  },
+  {
+    "timestamp": "20200927T0500",
+    "Temperature": 24.092346,
+    "Relative_Humidity": 92,
+    "Pressure": 1010,
+    "Precipitation": 0
+  },
+  {
+    "timestamp": "20200927T0600",
+    "Temperature": 23.992346,
+    "Relative_Humidity": 93,
+    "Pressure": 1009.8,
+    "Precipitation": 0
+  },
+  {
+    "timestamp": "20200927T0700",
+    "Temperature": 23.882345,
+    "Relative_Humidity": 93,
+    "Pressure": 1010,
+    "Precipitation": 0
+  },
+  {
+    "timestamp": "20200927T0800",
+    "Temperature": 25.432346,
+    "Relative_Humidity": 90,
+    "Pressure": 1010.7,
+    "Precipitation": 0
+  },
+  {
+    "timestamp": "20200927T0900",
+    "Temperature": 26.152346,
+    "Relative_Humidity": 83,
+    "Pressure": 1011.6,
+    "Precipitation": 0.3
+  },
+  {
+    "timestamp": "20200927T1000",
+    "Temperature": 27.312346,
+    "Relative_Humidity": 77,
+    "Pressure": 1011.8,
+    "Precipitation": 0
+  },
+  {
+    "timestamp": "20200927T1100",
+    "Temperature": 27.432346,
+    "Relative_Humidity": 76,
+    "Pressure": 1011.4,
+    "Precipitation": 0
+  },
+  {
+    "timestamp": "20200927T1200",
+    "Temperature": 27.142345,
+    "Relative_Humidity": 74,
+    "Pressure": 1010.9,
+    "Precipitation": 0
+  },
+  {
+    "timestamp": "20200927T1300",
+    "Temperature": 27.392345,
+    "Relative_Humidity": 73,
+    "Pressure": 1010.2,
+    "Precipitation": 0
+  },
+  {
+    "timestamp": "20200927T1400",
+    "Temperature": 28.802345,
+    "Relative_Humidity": 68,
+    "Pressure": 1009.4,
+    "Precipitation": 0
+  },
+  {
+    "timestamp": "20200927T1500",
+    "Temperature": 29.082346,
+    "Relative_Humidity": 66,
+    "Pressure": 1008.6,
+    "Precipitation": 0
+  },
+  {
+    "timestamp": "20200927T1600",
+    "Temperature": 29.032345,
+    "Relative_Humidity": 66,
+    "Pressure": 1008.2,
+    "Precipitation": 0
+  },
+  {
+    "timestamp": "20200927T1700",
+    "Temperature": 28.782345,
+    "Relative_Humidity": 67,
+    "Pressure": 1007.7,
+    "Precipitation": 0
+  },
+  {
+    "timestamp": "20200927T1800",
+    "Temperature": 28.422346,
+    "Relative_Humidity": 69,
+    "Pressure": 1007.6,
+    "Precipitation": 0
+  },
+  {
+    "timestamp": "20200927T1900",
+    "Temperature": 27.592346,
+    "Relative_Humidity": 74,
+    "Pressure": 1008,
+    "Precipitation": 0
+  },
+  {
+    "timestamp": "20200927T2000",
+    "Temperature": 27.382345,
+    "Relative_Humidity": 76,
+    "Pressure": 1008.9,
+    "Precipitation": 0
+  },
+  {
+    "timestamp": "20200927T2100",
+    "Temperature": 27.082346,
+    "Relative_Humidity": 78,
+    "Pressure": 1010.2,
+    "Precipitation": 0
+  },
+  {
+    "timestamp": "20200927T2200",
+    "Temperature": 26.842346,
+    "Relative_Humidity": 79,
+    "Pressure": 1011,
+    "Precipitation": 0
+  },
+  {
+    "timestamp": "20200927T2300",
+    "Temperature": 26.682346,
+    "Relative_Humidity": 80,
+    "Pressure": 1011.2,
+    "Precipitation": 0
+  },
+  {
+    "timestamp": "20200928T0000",
+    "Temperature": 26.422346,
+    "Relative_Humidity": 81,
+    "Pressure": 1010.6,
+    "Precipitation": 0
+  },
+  {
+    "timestamp": "20200928T0100",
+    "Temperature": 26.112345,
+    "Relative_Humidity": 82,
+    "Pressure": 1010.2,
+    "Precipitation": 0
+  },
+  {
+    "timestamp": "20200928T0200",
+    "Temperature": 25.782345,
+    "Relative_Humidity": 83,
+    "Pressure": 1009.2,
+    "Precipitation": 0
+  },
+  {
+    "timestamp": "20200928T0300",
+    "Temperature": 25.462345,
+    "Relative_Humidity": 84,
+    "Pressure": 1008.6,
+    "Precipitation": 0
+  },
+  {
+    "timestamp": "20200928T0400",
+    "Temperature": 25.142345,
+    "Relative_Humidity": 85,
+    "Pressure": 1008.5,
+    "Precipitation": 0
+  },
+  {
+    "timestamp": "20200928T0500",
+    "Temperature": 24.832346,
+    "Relative_Humidity": 86,
+    "Pressure": 1008.7,
+    "Precipitation": 0
+  },
+  {
+    "timestamp": "20200928T0600",
+    "Temperature": 24.632345,
+    "Relative_Humidity": 87,
+    "Pressure": 1008.9,
+    "Precipitation": 0
+  },
+  {
+    "timestamp": "20200928T0700",
+    "Temperature": 24.482346,
+    "Relative_Humidity": 88,
+    "Pressure": 1009.3,
+    "Precipitation": 0
+  },
+  {
+    "timestamp": "20200928T0800",
+    "Temperature": 25.652346,
+    "Relative_Humidity": 86,
+    "Pressure": 1010,
+    "Precipitation": 0
+  },
+  {
+    "timestamp": "20200928T0900",
+    "Temperature": 27.362345,
+    "Relative_Humidity": 74,
+    "Pressure": 1010.7,
+    "Precipitation": 0
+  },
+  {
+    "timestamp": "20200928T1000",
+    "Temperature": 28.232346,
+    "Relative_Humidity": 69,
+    "Pressure": 1011,
+    "Precipitation": 0
+  },
+  {
+    "timestamp": "20200928T1100",
+    "Temperature": 28.932346,
+    "Relative_Humidity": 66,
+    "Pressure": 1010.8,
+    "Precipitation": 0
+  },
+  {
+    "timestamp": "20200928T1200",
+    "Temperature": 29.302345,
+    "Relative_Humidity": 63,
+    "Pressure": 1010.5,
+    "Precipitation": 0
+  },
+  {
+    "timestamp": "20200928T1300",
+    "Temperature": 29.542345,
+    "Relative_Humidity": 62,
+    "Pressure": 1009.7,
+    "Precipitation": 0
+  },
+  {
+    "timestamp": "20200928T1400",
+    "Temperature": 29.782345,
+    "Relative_Humidity": 62,
+    "Pressure": 1009,
+    "Precipitation": 0
+  },
+  {
+    "timestamp": "20200928T1500",
+    "Temperature": 29.942345,
+    "Relative_Humidity": 62,
+    "Pressure": 1008.1,
+    "Precipitation": 0
+  },
+  {
+    "timestamp": "20200928T1600",
+    "Temperature": 29.922346,
+    "Relative_Humidity": 61,
+    "Pressure": 1007.4,
+    "Precipitation": 0
+  },
+  {
+    "timestamp": "20200928T1700",
+    "Temperature": 29.352346,
+    "Relative_Humidity": 63,
+    "Pressure": 1007.3,
+    "Precipitation": 0.1
+  },
+  {
+    "timestamp": "20200928T1800",
+    "Temperature": 28.852346,
+    "Relative_Humidity": 67,
+    "Pressure": 1007.6,
+    "Precipitation": 0.1
+  },
+  {
+    "timestamp": "20200928T1900",
+    "Temperature": 27.912346,
+    "Relative_Humidity": 75,
+    "Pressure": 1008.4,
+    "Precipitation": 0
+  },
+  {
+    "timestamp": "20200928T2000",
+    "Temperature": 27.942345,
+    "Relative_Humidity": 72,
+    "Pressure": 1009,
+    "Precipitation": 0
+  },
+  {
+    "timestamp": "20200928T2100",
+    "Temperature": 27.692345,
+    "Relative_Humidity": 74,
+    "Pressure": 1010,
+    "Precipitation": 0
+  },
+  {
+    "timestamp": "20200928T2200",
+    "Temperature": 27.442345,
+    "Relative_Humidity": 76,
+    "Pressure": 1011.1,
+    "Precipitation": 0
+  },
+  {
+    "timestamp": "20200928T2300",
+    "Temperature": 27.142345,
+    "Relative_Humidity": 77,
+    "Pressure": 1011.3,
+    "Precipitation": 0
+  },
+  {
+    "timestamp": "20200929T0000",
+    "Temperature": 26.842346,
+    "Relative_Humidity": 78,
+    "Pressure": 1010.7,
+    "Precipitation": 0
+  },
+  {
+    "timestamp": "20200929T0100",
+    "Temperature": 26.512346,
+    "Relative_Humidity": 79,
+    "Pressure": 1010.1,
+    "Precipitation": 0
+  },
+  {
+    "timestamp": "20200929T0200",
+    "Temperature": 26.262346,
+    "Relative_Humidity": 80,
+    "Pressure": 1009.6,
+    "Precipitation": 0
+  },
+  {
+    "timestamp": "20200929T0300",
+    "Temperature": 25.972345,
+    "Relative_Humidity": 81,
+    "Pressure": 1008.1,
+    "Precipitation": 0
+  },
+  {
+    "timestamp": "20200929T0400",
+    "Temperature": 25.732346,
+    "Relative_Humidity": 82,
+    "Pressure": 1007.9,
+    "Precipitation": 0
+  },
+  {
+    "timestamp": "20200929T0500",
+    "Temperature": 25.502346,
+    "Relative_Humidity": 83,
+    "Pressure": 1008.1,
+    "Precipitation": 0
+  },
+  {
+    "timestamp": "20200929T0600",
+    "Temperature": 25.422346,
+    "Relative_Humidity": 83,
+    "Pressure": 1008.9,
+    "Precipitation": 0
+  },
+  {
+    "timestamp": "20200929T0700",
+    "Temperature": 25.382345,
+    "Relative_Humidity": 83,
+    "Pressure": 1009.5,
+    "Precipitation": 0
+  },
+  {
+    "timestamp": "20200929T0800",
+    "Temperature": 26.152346,
+    "Relative_Humidity": 82,
+    "Pressure": 1009.8,
+    "Precipitation": 0
+  },
+  {
+    "timestamp": "20200929T0900",
+    "Temperature": 27.632345,
+    "Relative_Humidity": 74,
+    "Pressure": 1010,
+    "Precipitation": 0
+  },
+  {
+    "timestamp": "20200929T1000",
+    "Temperature": 28.292345,
+    "Relative_Humidity": 70,
+    "Pressure": 1009.9,
+    "Precipitation": 0
+  },
+  {
+    "timestamp": "20200929T1100",
+    "Temperature": 28.782345,
+    "Relative_Humidity": 67,
+    "Pressure": 1009.6,
+    "Precipitation": 0
+  },
+  {
+    "timestamp": "20200929T1200",
+    "Temperature": 29.042345,
+    "Relative_Humidity": 67,
+    "Pressure": 1009.5,
+    "Precipitation": 0
+  },
+  {
+    "timestamp": "20200929T1300",
+    "Temperature": 28.882345,
+    "Relative_Humidity": 67,
+    "Pressure": 1009.1,
+    "Precipitation": 0
+  },
+  {
+    "timestamp": "20200929T1400",
+    "Temperature": 29.372345,
+    "Relative_Humidity": 66,
+    "Pressure": 1008.5,
+    "Precipitation": 0
+  },
+  {
+    "timestamp": "20200929T1500",
+    "Temperature": 29.482346,
+    "Relative_Humidity": 66,
+    "Pressure": 1007.1,
+    "Precipitation": 0
+  },
+  {
+    "timestamp": "20200929T1600",
+    "Temperature": 29.542345,
+    "Relative_Humidity": 66,
+    "Pressure": 1006.3,
+    "Precipitation": 0
+  },
+  {
+    "timestamp": "20200929T1700",
+    "Temperature": 29.432346,
+    "Relative_Humidity": 66,
+    "Pressure": 1005.8,
+    "Precipitation": 0
+  },
+  {
+    "timestamp": "20200929T1800",
+    "Temperature": 29.092346,
+    "Relative_Humidity": 67,
+    "Pressure": 1006.2,
+    "Precipitation": 0
+  },
+  {
+    "timestamp": "20200929T1900",
+    "Temperature": 28.042345,
+    "Relative_Humidity": 73,
+    "Pressure": 1007.2,
+    "Precipitation": 0
+  },
+  {
+    "timestamp": "20200929T2000",
+    "Temperature": 27.712345,
+    "Relative_Humidity": 75,
+    "Pressure": 1008.5,
+    "Precipitation": 0
+  },
+  {
+    "timestamp": "20200929T2100",
+    "Temperature": 27.432346,
+    "Relative_Humidity": 77,
+    "Pressure": 1009.2,
+    "Precipitation": 0
+  },
+  {
+    "timestamp": "20200929T2200",
+    "Temperature": 27.102346,
+    "Relative_Humidity": 78,
+    "Pressure": 1009.8,
+    "Precipitation": 0
+  },
+  {
+    "timestamp": "20200929T2300",
+    "Temperature": 26.782345,
+    "Relative_Humidity": 80,
+    "Pressure": 1009.9,
+    "Precipitation": 0
+  },
+  {
+    "timestamp": "20200930T0000",
+    "Temperature": 26.502346,
+    "Relative_Humidity": 81,
+    "Pressure": 1009.5,
+    "Precipitation": 0
+  },
+  {
+    "timestamp": "20200930T0100",
+    "Temperature": 26.212345,
+    "Relative_Humidity": 83,
+    "Pressure": 1009.2,
+    "Precipitation": 0
+  },
+  {
+    "timestamp": "20200930T0200",
+    "Temperature": 25.912346,
+    "Relative_Humidity": 84,
+    "Pressure": 1008.4,
+    "Precipitation": 0
+  },
+  {
+    "timestamp": "20200930T0300",
+    "Temperature": 25.502346,
+    "Relative_Humidity": 85,
+    "Pressure": 1007,
+    "Precipitation": 0
+  },
+  {
+    "timestamp": "20200930T0400",
+    "Temperature": 25.222345,
+    "Relative_Humidity": 86,
+    "Pressure": 1007,
+    "Precipitation": 0
+  },
+  {
+    "timestamp": "20200930T0500",
+    "Temperature": 24.982346,
+    "Relative_Humidity": 87,
+    "Pressure": 1007.1,
+    "Precipitation": 0
+  },
+  {
+    "timestamp": "20200930T0600",
+    "Temperature": 24.832346,
+    "Relative_Humidity": 87,
+    "Pressure": 1007.7,
+    "Precipitation": 0
+  },
+  {
+    "timestamp": "20200930T0700",
+    "Temperature": 24.672346,
+    "Relative_Humidity": 88,
+    "Pressure": 1008.2,
+    "Precipitation": 0
+  },
+  {
+    "timestamp": "20200930T0800",
+    "Temperature": 26.242346,
+    "Relative_Humidity": 86,
+    "Pressure": 1008.6,
+    "Precipitation": 0
+  },
+  {
+    "timestamp": "20200930T0900",
+    "Temperature": 28.462345,
+    "Relative_Humidity": 74,
+    "Pressure": 1008.8,
+    "Precipitation": 0
+  },
+  {
+    "timestamp": "20200930T1000",
+    "Temperature": 29.562346,
+    "Relative_Humidity": 66,
+    "Pressure": 1008.3,
+    "Precipitation": 0
+  },
+  {
+    "timestamp": "20200930T1100",
+    "Temperature": 29.342346,
+    "Relative_Humidity": 67,
+    "Pressure": 1008.6,
+    "Precipitation": 0.1
+  },
+  {
+    "timestamp": "20200930T1200",
+    "Temperature": 29.002346,
+    "Relative_Humidity": 68,
+    "Pressure": 1008.4,
+    "Precipitation": 0.3
+  },
+  {
+    "timestamp": "20200930T1300",
+    "Temperature": 29.162346,
+    "Relative_Humidity": 68,
+    "Pressure": 1007.9,
+    "Precipitation": 0.3
+  },
+  {
+    "timestamp": "20200930T1400",
+    "Temperature": 29.562346,
+    "Relative_Humidity": 68,
+    "Pressure": 1007.1,
+    "Precipitation": 0.2
+  },
+  {
+    "timestamp": "20200930T1500",
+    "Temperature": 29.282345,
+    "Relative_Humidity": 68,
+    "Pressure": 1005.9,
+    "Precipitation": 0.3
+  },
+  {
+    "timestamp": "20200930T1600",
+    "Temperature": 28.832346,
+    "Relative_Humidity": 70,
+    "Pressure": 1005.3,
+    "Precipitation": 0.3
+  },
+  {
+    "timestamp": "20200930T1700",
+    "Temperature": 28.712345,
+    "Relative_Humidity": 71,
+    "Pressure": 1004.8,
+    "Precipitation": 0.2
+  },
+  {
+    "timestamp": "20200930T1800",
+    "Temperature": 28.502346,
+    "Relative_Humidity": 75,
+    "Pressure": 1004.9,
+    "Precipitation": 0.7
+  },
+  {
+    "timestamp": "20200930T1900",
+    "Temperature": 27.642345,
+    "Relative_Humidity": 81,
+    "Pressure": 1006,
+    "Precipitation": 0
+  },
+  {
+    "timestamp": "20200930T2000",
+    "Temperature": 28.012346,
+    "Relative_Humidity": 83,
+    "Pressure": 1007.2,
+    "Precipitation": 0.2
+  },
+  {
+    "timestamp": "20200930T2100",
+    "Temperature": 27.812346,
+    "Relative_Humidity": 84,
+    "Pressure": 1008,
+    "Precipitation": 0.7
+  },
+  {
+    "timestamp": "20200930T2200",
+    "Temperature": 27.532345,
+    "Relative_Humidity": 85,
+    "Pressure": 1009.2,
+    "Precipitation": 0.5
+  },
+  {
+    "timestamp": "20200930T2300",
+    "Temperature": 27.142345,
+    "Relative_Humidity": 85,
+    "Pressure": 1010.1,
+    "Precipitation": 0.1
+  },
+  {
+    "timestamp": "20201001T0000",
+    "Temperature": 26.722345,
+    "Relative_Humidity": 87,
+    "Pressure": 1009.7,
+    "Precipitation": 0.2
+  },
+  {
+    "timestamp": "20201001T0100",
+    "Temperature": 26.672346,
+    "Relative_Humidity": 90,
+    "Pressure": 1008.7,
+    "Precipitation": 0
+  },
+  {
+    "timestamp": "20201001T0200",
+    "Temperature": 26.322346,
+    "Relative_Humidity": 89,
+    "Pressure": 1008,
+    "Precipitation": 0
+  },
+  {
+    "timestamp": "20201001T0300",
+    "Temperature": 26.002346,
+    "Relative_Humidity": 89,
+    "Pressure": 1006.8,
+    "Precipitation": 0
+  },
+  {
+    "timestamp": "20201001T0400",
+    "Temperature": 26.042345,
+    "Relative_Humidity": 89,
+    "Pressure": 1007,
+    "Precipitation": 0
+  },
+  {
+    "timestamp": "20201001T0500",
+    "Temperature": 25.932346,
+    "Relative_Humidity": 89,
+    "Pressure": 1007.1,
+    "Precipitation": 0
+  },
+  {
+    "timestamp": "20201001T0600",
+    "Temperature": 25.632345,
+    "Relative_Humidity": 90,
+    "Pressure": 1007.4,
+    "Precipitation": 0
+  },
+  {
+    "timestamp": "20201001T0700",
+    "Temperature": 25.422346,
+    "Relative_Humidity": 91,
+    "Pressure": 1007.7,
+    "Precipitation": 0
+  },
+  {
+    "timestamp": "20201001T0800",
+    "Temperature": 26.682346,
+    "Relative_Humidity": 89,
+    "Pressure": 1008.5,
+    "Precipitation": 0
+  },
+  {
+    "timestamp": "20201001T0900",
+    "Temperature": 26.772346,
+    "Relative_Humidity": 85,
+    "Pressure": 1009.3,
+    "Precipitation": 1.8
+  },
+  {
+    "timestamp": "20201001T1000",
+    "Temperature": 27.522346,
+    "Relative_Humidity": 79,
+    "Pressure": 1009.1,
+    "Precipitation": 1.6
+  },
+  {
+    "timestamp": "20201001T1100",
+    "Temperature": 27.552345,
+    "Relative_Humidity": 79,
+    "Pressure": 1009.3,
+    "Precipitation": 0.9
+  },
+  {
+    "timestamp": "20201001T1200",
+    "Temperature": 27.572346,
+    "Relative_Humidity": 79,
+    "Pressure": 1008.8,
+    "Precipitation": 0.9
+  },
+  {
+    "timestamp": "20201001T1300",
+    "Temperature": 27.592346,
+    "Relative_Humidity": 79,
+    "Pressure": 1008,
+    "Precipitation": 0.9
+  },
+  {
+    "timestamp": "20201001T1400",
+    "Temperature": 27.702345,
+    "Relative_Humidity": 78,
+    "Pressure": 1007.3,
+    "Precipitation": 0.6
+  },
+  {
+    "timestamp": "20201001T1500",
+    "Temperature": 27.612345,
+    "Relative_Humidity": 79,
+    "Pressure": 1006.4,
+    "Precipitation": 0.6
+  },
+  {
+    "timestamp": "20201001T1600",
+    "Temperature": 27.572346,
+    "Relative_Humidity": 79,
+    "Pressure": 1005.9,
+    "Precipitation": 0.6
+  },
+  {
+    "timestamp": "20201001T1700",
+    "Temperature": 27.432346,
+    "Relative_Humidity": 79,
+    "Pressure": 1005.7,
+    "Precipitation": 0.7
+  },
+  {
+    "timestamp": "20201001T1800",
+    "Temperature": 27.072346,
+    "Relative_Humidity": 82,
+    "Pressure": 1006.1,
+    "Precipitation": 0.5
+  },
+  {
+    "timestamp": "20201001T1900",
+    "Temperature": 26.772346,
+    "Relative_Humidity": 88,
+    "Pressure": 1006.9,
+    "Precipitation": 0.1
+  },
+  {
+    "timestamp": "20201001T2000",
+    "Temperature": 26.142345,
+    "Relative_Humidity": 89,
+    "Pressure": 1008.4,
+    "Precipitation": 0
+  },
+  {
+    "timestamp": "20201001T2100",
+    "Temperature": 25.952345,
+    "Relative_Humidity": 89,
+    "Pressure": 1009.7,
+    "Precipitation": 0
+  },
+  {
+    "timestamp": "20201001T2200",
+    "Temperature": 25.762346,
+    "Relative_Humidity": 90,
+    "Pressure": 1010.6,
+    "Precipitation": 0
+  },
+  {
+    "timestamp": "20201001T2300",
+    "Temperature": 25.512346,
+    "Relative_Humidity": 91,
+    "Pressure": 1010.9,
+    "Precipitation": 0
+  }
+]
